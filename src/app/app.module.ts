@@ -20,6 +20,7 @@ import { NoContentComponent } from './no-content';
 import { XLargeDirective } from './home/x-large';
 import { DevModuleModule } from './+dev-module';
 
+import 'bootstrap';
 import '../styles/styles.scss';
 import '../styles/headings.css';
 
